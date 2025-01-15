@@ -49,7 +49,7 @@ O aplicativo foi desenvolvido com as seguintes tecnologias e padrões:
 
 3. **Configure a API Key:**
 
-- Substitua YOUR_API_KEY no arquivo build.gradle ou em um arquivo de configuração dedicado pela sua chave da Google Books API.
+- Substitua YOUR_API_KEY no arquivo local.properties.
   
 4. **Compile e execute:**
 
