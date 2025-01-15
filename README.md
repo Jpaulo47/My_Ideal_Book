@@ -56,7 +56,7 @@ O aplicativo foi desenvolvido com as seguintes tecnologias e padrões:
 - Execute o aplicativo em um emulador ou dispositivo físico.
 
 ## 📝 Licença
-- Este projeto está licenciado sob a licença ([LICENSE](https://github.com/Jpaulo47/My_Ideal_Book/blob/main/LICENSE)).
+- Este projeto está licenciado sob a licença ([MIT](https://github.com/Jpaulo47/My_Ideal_Book/blob/main/LICENSE)).
 
 ## ✨ Contato
 **Caso tenha dúvidas ou sugestões, entre em contato:**
