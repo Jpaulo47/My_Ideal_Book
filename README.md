@@ -49,7 +49,7 @@ O aplicativo foi desenvolvido com as seguintes tecnologias e padrões:
 
 3. **Configure a API Key:**
 
-- Substitua YOUR_API_KEY no arquivo local.properties pela sua chave de api, certifique-se de ativar o serviço do google books no google console. 
+- Substitua YOUR_API_KEY no arquivo local.properties pela sua chave de API, certifique-se de ativar o serviço do google books no google console. 
   
 4. **Compile e execute:**
 
